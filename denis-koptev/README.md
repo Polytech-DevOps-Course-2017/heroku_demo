@@ -14,7 +14,7 @@ https://deniskoptev-test-site.herokuapp.com/
 
 ### Automatically
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fdenis-koptev%2Fdjango_test%2Ftree%2Fheroku&template=https%3A%2F%2Fgithub.com%2Fdenis-koptev%2Fdjango_test%2Ftree%2Fheroku)
 
 ### By hands
 
