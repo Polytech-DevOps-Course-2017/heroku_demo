@@ -11,3 +11,7 @@ Simple hello-devops example with vaadin and heroku.
 ## Direct link
 
 You can test it here: https://vaadinhello.herokuapp.com/
+
+## Also
+
+Server automatically restarts when you push to this repo: https://github.com/MrSandmanRUS/vaadin_heroku_example
