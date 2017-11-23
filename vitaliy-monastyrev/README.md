@@ -1,4 +1,4 @@
-# Heroku Vaadin Hello-DevOps Example
+# Heroku+Vaadin Hello-DevOps Example
 
 ## Description
 
